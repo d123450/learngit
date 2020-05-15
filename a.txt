@@ -3,4 +3,4 @@ insert
 abc
 p
 u
-p
+read
