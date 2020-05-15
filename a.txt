@@ -1,3 +1,4 @@
 index p
 insert
 abc
+p
